@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_width">270dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="container_margin">8dp</dimen>
+    <dimen name="container_horizontal_margin">16dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="sp_17">17sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+</resources>

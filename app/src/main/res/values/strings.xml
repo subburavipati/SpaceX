@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="label_mission_name">Mission name : %1s</string>
+    <string name="label_rocket_name">Rocket name : %1s</string>
+    <string name="label_rocket_type">Rocket type : %1s</string>
+    <string name="label_launch_name">Site name : %1s</string>
+    <string name="label_launch_site">Launch site : %1s</string>
+    <string name="label_launch_date">Launch date : %1s</string>
+    <string name="label_launch_year">Launch year : %1s</string>
+    <string name="label_launch_details">Details : %1s</string>
+    <string name="label_failure_reason">Failure Reason : %1s</string>
+    <string name="label_failure_time">Failure Time : %1s</string>
+    <string name="label_flight_number">Flight number : %1s</string>
+    <string name="youtube_link">https://www.youtube.com/watch?v=%1s</string>
+    <string name="network_error">Please check you network connection</string>
+    <string name="no_network">No internet</string>
+    <string name="str_no_data">No data available</string>
+    <string name="str_empty" />
+    <string name="error_loading_data">Error in loading data</string>
+</resources>
